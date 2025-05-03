@@ -1,1 +1,1 @@
-# NewsPro
+NewsPro is developed using HTML, CSS, JavaScript, and APIs. The project features an intuitive news app layout with navigation and a search function, allowing users to explore content with ease. Dynamic news cards are created using HTML templates for flexible content display. The app includes interactive navigation with clickable categories that load relevant news articles instantly. A keyword-based search feature is also integrated, enabling users to filter and view specific news articles based on their input.
